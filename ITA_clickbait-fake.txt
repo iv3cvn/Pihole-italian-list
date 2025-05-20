@@ -128,6 +128,7 @@
 0.0.0.0 notiziepericolose.blogspot.com
 0.0.0.0 ilmattoquotidiano.it
 0.0.0.0 www.ilmattoquotidiano.it
+0.0.0.0 fonteverificata.it
 0.0.0.0 ilquotidianoditalia.wordpress.com
 0.0.0.0 liberogiornale.com
 0.0.0.0 notiziariosegreto.wordpress.com
