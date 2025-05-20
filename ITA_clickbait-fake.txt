@@ -140,7 +140,7 @@
 0.0.0.0 saltoquantico.org
 0.0.0.0 autismovaccini.org
 0.0.0.0 getwillcall.com
-0.0.0.0 jedanews.it/blog
+0.0.0.0 jedanews.it
 0.0.0.0 naturalnews.com
 0.0.0.0 notiziespericolate.com
 0.0.0.0 viaggialowcost.altervista.org
