@@ -77,7 +77,6 @@
 0.0.0.0 italiapopolare.it
 0.0.0.0 italiapost.it
 0.0.0.0 jedanews.it
-0.0.0.0 jedanews.it/blog
 0.0.0.0 lantidiplomatico.it
 0.0.0.0 larepubblicaindipendente.com
 0.0.0.0 lastella.altervista.org
@@ -240,7 +239,6 @@
 0.0.0.0 www.italiapopolare.it
 0.0.0.0 www.italiapost.it
 0.0.0.0 www.jedanews.it
-0.0.0.0 www.jedanews.it/blog
 0.0.0.0 www.lantidiplomatico.it
 0.0.0.0 www.larepubblicaindipendente.com
 0.0.0.0 www.lastella.altervista.org
