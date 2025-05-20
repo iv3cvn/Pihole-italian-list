@@ -30,8 +30,10 @@
 0.0.0.0 direttanews.it
 0.0.0.0 direttanews24.com
 0.0.0.0 direttanfo.blogspot.com
+0.0.0.0 disinformazione.it
 0.0.0.0 donotlink.it
 0.0.0.0 dottorepercaso.it
+0.0.0.0 essere-informati.it
 0.0.0.0 eventiavversinews.it
 0.0.0.0 fanmagazine.it
 0.0.0.0 fascinazione.info
@@ -54,6 +56,7 @@
 0.0.0.0 ilmistero.it
 0.0.0.0 ilparagone.it
 0.0.0.0 ilpopulista.it
+0.0.0.0 ilquotidaino.wordpress.com
 0.0.0.0 ilquotidianoditalia.it
 0.0.0.0 ilquotidianoditalia.wordpress.com
 0.0.0.0 ilsecoloditalia.it
@@ -61,17 +64,20 @@
 0.0.0.0 iltuogiornale.it
 0.0.0.0 imolaoggi.it
 0.0.0.0 informare.over-blog.it
+0.0.0.0 informaresenzacensure.blogspot.com
 0.0.0.0 informarexresistere.fr
 0.0.0.0 informatitalia.blogspot.it
 0.0.0.0 informazionelibera.eu
 0.0.0.0 informazionevera.altervista.org
 0.0.0.0 interessanteoggi.it
 0.0.0.0 internapoli.it
+0.0.0.0 iocritico.com
 0.0.0.0 italia24ore.it
 0.0.0.0 italiafeed.com
 0.0.0.0 italiapopolare.it
 0.0.0.0 italiapost.it
 0.0.0.0 jedanews.it
+0.0.0.0 jedanews.it/blog
 0.0.0.0 lantidiplomatico.it
 0.0.0.0 larepubblicaindipendente.com
 0.0.0.0 lastella.altervista.org
@@ -125,6 +131,8 @@
 0.0.0.0 segnidalcielo.it
 0.0.0.0 segretimisteri.com
 0.0.0.0 senzacensura.eu
+0.0.0.0 signoraggio.it
+0.0.0.0 socialbuzz.it
 0.0.0.0 soloinsalute.it
 0.0.0.0 sputniknews.com
 0.0.0.0 sputniknews.it
@@ -185,8 +193,10 @@
 0.0.0.0 www.direttanews.it
 0.0.0.0 www.direttanews24.com
 0.0.0.0 www.direttanfo.blogspot.com
+0.0.0.0 www.disinformazione.it
 0.0.0.0 www.donotlink.it
 0.0.0.0 www.dottorepercaso.it
+0.0.0.0 www.essere-informati.it
 0.0.0.0 www.eventiavversinews.it
 0.0.0.0 www.fanmagazine.it
 0.0.0.0 www.fascinazione.info
@@ -209,6 +219,7 @@
 0.0.0.0 www.ilmistero.it
 0.0.0.0 www.ilparagone.it
 0.0.0.0 www.ilpopulista.it
+0.0.0.0 www.ilquotidaino.wordpress.com
 0.0.0.0 www.ilquotidianoditalia.it
 0.0.0.0 www.ilquotidianoditalia.wordpress.com
 0.0.0.0 www.ilsecoloditalia.it
@@ -216,17 +227,20 @@
 0.0.0.0 www.iltuogiornale.it
 0.0.0.0 www.imolaoggi.it
 0.0.0.0 www.informare.over-blog.it
+0.0.0.0 www.informaresenzacensure.blogspot.com
 0.0.0.0 www.informarexresistere.fr
 0.0.0.0 www.informatitalia.blogspot.it
 0.0.0.0 www.informazionelibera.eu
 0.0.0.0 www.informazionevera.altervista.org
 0.0.0.0 www.interessanteoggi.it
 0.0.0.0 www.internapoli.it
+0.0.0.0 www.iocritico.com
 0.0.0.0 www.italia24ore.it
 0.0.0.0 www.italiafeed.com
 0.0.0.0 www.italiapopolare.it
 0.0.0.0 www.italiapost.it
 0.0.0.0 www.jedanews.it
+0.0.0.0 www.jedanews.it/blog
 0.0.0.0 www.lantidiplomatico.it
 0.0.0.0 www.larepubblicaindipendente.com
 0.0.0.0 www.lastella.altervista.org
@@ -280,6 +294,8 @@
 0.0.0.0 www.segnidalcielo.it
 0.0.0.0 www.segretimisteri.com
 0.0.0.0 www.senzacensura.eu
+0.0.0.0 www.signoraggio.it
+0.0.0.0 www.socialbuzz.it
 0.0.0.0 www.soloinsalute.it
 0.0.0.0 www.sputniknews.com
 0.0.0.0 www.sputniknews.it
@@ -312,3 +328,4 @@
 0.0.0.0 www.zon.it
 0.0.0.0 xmxnews.com
 0.0.0.0 zon.it
+
