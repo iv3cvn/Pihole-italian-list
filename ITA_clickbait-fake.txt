@@ -1,125 +1,161 @@
-affaritaliani.biz
-attivitasolare.com
-baritalia24h.com
-benessere360.com
-benesserecorpo.it
-benessereinformato.it
-benessereintelligente.it
-benessereitalia360.it
-benesseresalute.net
-blastingnews.com
-breaknotizie.com
-byoblu.com
-caffeinamagazine.it
-calabriadirettanews.com
-catenaumana.it
-centrometeoitaliano.it
-complottisti.it
-conoscenzealconfine.it
-controcopertina.com
-controinformazione.info
-coscienzeinrete.net
-cronacaedossier.it
-curiosando.site
-databaseitalia.it
-davidicke.it
-devinformarti.blogspot.it
-dionidream.com
-direttanews.it
-direttanews24.com
-dottorepercaso.it
-donotlink.it
-eventiavversinews.it
-fanmagazine.it
-fascinazione.info
-forzaitalianews.it
-giornalettismo24.com
-giornalone.it
-glitchare.com
-grandeinganno.it
-guardachevideo.it
-himerah24.it
-ilbazarinformazione.blogspot.it
-ilfatto.net
-ilmessaggero24.it
-ilmistero.it
-ilmeteo.news
-ilparagone.it
-ilpopulista.it
-ilquotidianoditalia.it
-ilsecoloditalia.it
-ilsegretodellavita.it
-iltuogiornale.it
-imolaoggi.it
-informare.over-blog.it
-informarexresistere.fr
-informaresenzacensure.blogspot.com
-informazionelibera.eu
-informazionevera.altervista.org
-interessanteoggi.it
-italia24ore.it
-italiafeed.com
-italiapopolare.it
-italiapost.it
-jedanews.it
-lantidiplomatico.it
-larepubblicaindipendente.com
-laverita.info
-laveritadelsapere.com
-leggiilo.org
-libreidee.org
-mag24.cloud
-mag24.es
-maurizioblondet.it
-mondonews24.com
-neovitruvian.com
-newsattualita.it
-newsdellultimaora.it
-newsitaliane.it
-newsnotizie.it
-nocensura.com
-nonsapeviche.it
-notizie.it
-notiziedellultimaora.com
-notizieincredibili.it
-notizieinmovimentonews.blogspot.it
-notizieogg24.com
-notizieoggi24.it
-notiziespericolate.com
-nuovaresistenza.org
-oggi24.news
-oggisocial.com
-oltre.tv
-openyoureyes.altervista.org
-primaditutto.com
-primatonazionale.it
-rassegneitalia.info
-rivelazioni.com
-sadefenza.blogspot.com
-sanioggi.it
-scenarieconomici.it
-scienzamarcia.com
-secoloditalia.it
-segretimisteri.com
-senzacensura.eu
-soloinsalute.it
-sputniknews.com
-sputniknews.it
-stilenaturale.it
-stopcensura.online
-superinformati.com
-tg24-ore.com
-tg5stelle.it
-thedifferentgroup.com
-tuttifrutti.news
-tuttinews24.com
-tuttosalute.net
-tuttiicriminidegliimmigrati.com
-veritavibrante.com
-velvetgossip.it
-viralnews.it
-viralmagazine.it
-vnews24.it
-voxnews.info
-xmxnews.com
-zon.it
+0.0.0.0 affaritaliani.biz
+0.0.0.0 attivitasolare.com
+0.0.0.0 baritalia24h.com
+0.0.0.0 benessere360.com
+0.0.0.0 benesserecorpo.it
+0.0.0.0 benessereinformato.it
+0.0.0.0 benessereintelligente.it
+0.0.0.0 benessereitalia360.it
+0.0.0.0 benesseresalute.net
+0.0.0.0 blastingnews.com
+0.0.0.0 breaknotizie.com
+0.0.0.0 byoblu.com
+0.0.0.0 caffeinamagazine.it
+0.0.0.0 calabriadirettanews.com
+0.0.0.0 catenaumana.it
+0.0.0.0 centrometeoitaliano.it
+0.0.0.0 complottisti.it
+0.0.0.0 conoscenzealconfine.it
+0.0.0.0 controcopertina.com
+0.0.0.0 controinformazione.info
+0.0.0.0 coscienzeinrete.net
+0.0.0.0 cronacaedossier.it
+0.0.0.0 curiosando.site
+0.0.0.0 databaseitalia.it
+0.0.0.0 davidicke.it
+0.0.0.0 devinformarti.blogspot.it
+0.0.0.0 dionidream.com
+0.0.0.0 direttanews.it
+0.0.0.0 direttanews24.com
+0.0.0.0 dottorepercaso.it
+0.0.0.0 donotlink.it
+0.0.0.0 eventiavversinews.it
+0.0.0.0 fanmagazine.it
+0.0.0.0 fascinazione.info
+0.0.0.0 forzaitalianews.it
+0.0.0.0 giornalettismo24.com
+0.0.0.0 giornalone.it
+0.0.0.0 glitchare.com
+0.0.0.0 grandeinganno.it
+0.0.0.0 guardachevideo.it
+0.0.0.0 himerah24.it
+0.0.0.0 ilbazarinformazione.blogspot.it
+0.0.0.0 ilfatto.net
+0.0.0.0 ilmessaggero24.it
+0.0.0.0 ilmistero.it
+0.0.0.0 ilmeteo.news
+0.0.0.0 ilparagone.it
+0.0.0.0 ilpopulista.it
+0.0.0.0 ilquotidianoditalia.it
+0.0.0.0 ilsecoloditalia.it
+0.0.0.0 ilsegretodellavita.it
+0.0.0.0 iltuogiornale.it
+0.0.0.0 imolaoggi.it
+0.0.0.0 informare.over-blog.it
+0.0.0.0 informarexresistere.fr
+0.0.0.0 informazionelibera.eu
+0.0.0.0 informazionevera.altervista.org
+0.0.0.0 interessanteoggi.it
+0.0.0.0 italia24ore.it
+0.0.0.0 italiafeed.com
+0.0.0.0 italiapopolare.it
+0.0.0.0 italiapost.it
+0.0.0.0 jedanews.it
+0.0.0.0 lantidiplomatico.it
+0.0.0.0 larepubblicaindipendente.com
+0.0.0.0 laverita.info
+0.0.0.0 laveritadelsapere.com
+0.0.0.0 leggiilo.org
+0.0.0.0 liberogiornale.com
+0.0.0.0 libreidee.org
+0.0.0.0 mag24.cloud
+0.0.0.0 mag24.es
+0.0.0.0 maurizioblondet.it
+0.0.0.0 mondonews24.com
+0.0.0.0 neovitruvian.com
+0.0.0.0 newsattualita.it
+0.0.0.0 newsdellultimaora.it
+0.0.0.0 newsitaliane.it
+0.0.0.0 newsnotizie.it
+0.0.0.0 nocensura.com
+0.0.0.0 nonsapeviche.it
+0.0.0.0 notizie.it
+0.0.0.0 notiziedellultimaora.com
+0.0.0.0 notizieincredibili.it
+0.0.0.0 notizieinmovimentonews.blogspot.it
+0.0.0.0 notizieogg24.com
+0.0.0.0 notizieoggi24.it
+0.0.0.0 notiziespericolate.com
+0.0.0.0 nuovaresistenza.org
+0.0.0.0 oggi24.news
+0.0.0.0 oggiisocial.com
+0.0.0.0 oltre.tv
+0.0.0.0 openyoureyes.altervista.org
+0.0.0.0 primaditutto.com
+0.0.0.0 primatonazionale.it
+0.0.0.0 rassegneitalia.info
+0.0.0.0 rivelazioni.com
+0.0.0.0 sadefenza.blogspot.com
+0.0.0.0 sanioggi.it
+0.0.0.0 scenarieconomici.it
+0.0.0.0 scienzamarcia.com
+0.0.0.0 secoloditalia.it
+0.0.0.0 segretimisteri.com
+0.0.0.0 senzacensura.eu
+0.0.0.0 soloinsalute.it
+0.0.0.0 sputniknews.com
+0.0.0.0 sputniknews.it
+0.0.0.0 stilenaturale.it
+0.0.0.0 stopcensura.online
+0.0.0.0 superinformati.com
+0.0.0.0 tg24-ore.com
+0.0.0.0 tg5stelle.it
+0.0.0.0 thedifferentgroup.com
+0.0.0.0 tuttifrutti.news
+0.0.0.0 tuttinews24.com
+0.0.0.0 tuttosalute.net
+0.0.0.0 tuttiicriminidegliimmigrati.com
+0.0.0.0 veritavibrante.com
+0.0.0.0 velvetgossip.it
+0.0.0.0 viralnews.it
+0.0.0.0 viralmagazine.it
+0.0.0.0 vnews24.it
+0.0.0.0 voxnews.info
+0.0.0.0 xmxnews.com
+0.0.0.0 zon.it
+0.0.0.0 ilmessaggio.it
+0.0.0.0 ilfattoquotidaino.it
+0.0.0.0 notiziepericolose.blogspot.com
+0.0.0.0 ilmattoquotidiano.it
+0.0.0.0 ilquotidianoditalia.wordpress.com
+0.0.0.0 liberogiornale.com
+0.0.0.0 notiziariosegreto.wordpress.com
+0.0.0.0 secretnews.fr
+0.0.0.0 superbamente.com
+0.0.0.0 worldnewsdailyreport.com
+0.0.0.0 fonteverificata.it
+0.0.0.0 lastella.altervista.org
+0.0.0.0 segnidalcielo.it
+0.0.0.0 pianetablunews.wordpress.com
+0.0.0.0 saltoquantico.org
+0.0.0.0 autismovaccini.org
+0.0.0.0 getwillcall.com
+0.0.0.0 jedanews.it/blog
+0.0.0.0 naturalnews.com
+0.0.0.0 notiziespericolate.com
+0.0.0.0 viaggialowcost.altervista.org
+0.0.0.0 sadefenza.blogspot.com
+0.0.0.0 renovatio21.com
+0.0.0.0 informatitalia.blogspot.it
+0.0.0.0 tgnewsitalia.it
+0.0.0.0 internapoli.it
+0.0.0.0 worldnotix.net
+0.0.0.0 direttanfo.blogspot.com
+0.0.0.0 newscronaca.it
+0.0.0.0 sulatestagiannilannes.blogspot.com
+0.0.0.0 tmcrew.org
+0.0.0.0 tanker-enemy.com
+0.0.0.0 tankerenemy.com
+0.0.0.0 sapereeundovere.com
+0.0.0.0 luogocomune.net
+0.0.0.0 albainternazionale.blogspot.com
