@@ -328,4 +328,12 @@
 0.0.0.0 zon.it
 0.0.0.0 mobilitasostenibile.it
 0.0.0.0 www.mobilitasostenibile.it
+0.0.0.0 tuttonotizie.eu
+0.0.0.0 www.tuttonotizie.eu
+0.0.0.0 tecnoandroid.it
+0.0.0.0 viviingreen.it
+0.0.0.0 nextmoto.it
+0.0.0.0 motorisumotori.it
+0.0.0.0 movieplayer.it
+0.0.0.0 infoiva.com
 
